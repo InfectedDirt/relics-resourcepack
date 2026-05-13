@@ -1,0 +1,7 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "relics:item/winged_boots"
+  },
+  "hand_animation_on_swap": true
+}
