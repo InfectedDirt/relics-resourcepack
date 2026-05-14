@@ -1,0 +1,7 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "relics:item/scrying_glass"
+  },
+  "hand_animation_on_swap": true
+}
