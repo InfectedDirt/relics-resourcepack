@@ -1,0 +1,7 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "relics:item/interspace_coil"
+  },
+  "hand_animation_on_swap": true
+}

@@ -1,0 +1,24 @@
+{
+	"item.diving_suit.breathe_in":{
+		"subtitle":"Breathing",
+		"sounds":[
+			"relics:scuba_gear/breathe_in1",
+			"relics:scuba_gear/breathe_in2",
+			"relics:scuba_gear/breathe_in3"
+		]
+	},
+	"item.diving_suit.breathe_out":{
+		"subtitle":"Breathing",
+		"sounds":[
+			"relics:scuba_gear/breathe_out1",
+			"relics:scuba_gear/breathe_out2",
+			"relics:scuba_gear/breathe_out3"
+		]
+	},
+	"item.blahaj.squeak":{
+		"subtitle":"Blåhaj squeaks",
+		"sounds":[
+			"relics:blahaj/squeak"
+		]
+	}
+}

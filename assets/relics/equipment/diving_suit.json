@@ -1,0 +1,16 @@
+{
+  "layers": {
+    "humanoid": [
+      { "texture": "relics:diving_suit" },
+      { "texture":"relics:diving_suit_overlay",
+      	"dyeable":{
+      	}}
+    ],
+    "humanoid_leggings": [
+      { "texture": "relics:diving_suit" },
+      { "texture":"relics:diving_suit_overlay",
+      	"dyeable":{
+      	}}
+    ]
+  }
+}

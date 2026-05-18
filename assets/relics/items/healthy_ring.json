@@ -1,0 +1,7 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "relics:item/healthy_ring"
+  },
+  "hand_animation_on_swap": true
+}
